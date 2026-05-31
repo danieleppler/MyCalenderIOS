@@ -1,0 +1,72 @@
+
+/* Class = "UIButton"; configuration.title = "Save"; ObjectID = "90h-NT-Svb"; */
+"90h-NT-Svb.configuration.title" = "Save";
+
+/* Class = "UILabel"; text = "Thu"; ObjectID = "9df-wd-Pjx"; */
+"9df-wd-Pjx.text" = "Thu";
+
+/* Class = "UILabel"; text = "Mon"; ObjectID = "Ddz-sd-pcW"; */
+"Ddz-sd-pcW.text" = "Mon";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Htu-RT-Kla"; */
+"Htu-RT-Kla.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "Add Title"; ObjectID = "ICz-ap-DsB"; */
+"ICz-ap-DsB.text" = "Add Title";
+
+/* Class = "UITextView"; text = "Date · Time"; ObjectID = "LhK-Xk-iXd"; */
+"LhK-Xk-iXd.text" = "Date · Time";
+
+/* Class = "UIButton"; configuration.title = "Add participants"; ObjectID = "PZI-pt-Gkp"; */
+"PZI-pt-Gkp.configuration.title" = "Add participants";
+
+/* Class = "UILabel"; text = "Wed"; ObjectID = "UcA-CB-Ylk"; */
+"UcA-CB-Ylk.text" = "Wed";
+
+/* Class = "UILabel"; text = "Tue"; ObjectID = "Vaq-zh-JY2"; */
+"Vaq-zh-JY2.text" = "Tue";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Znx-tN-l1q"; */
+"Znx-tN-l1q.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Add video call"; ObjectID = "b7z-dB-LDI"; */
+"b7z-dB-LDI.configuration.title" = "Add video call";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bCn-uJ-8rq"; */
+"bCn-uJ-8rq.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "All day"; ObjectID = "bnj-wk-cpz"; */
+"bnj-wk-cpz.text" = "All day";
+
+/* Class = "UIButton"; configuration.title = "Cancel"; ObjectID = "c5d-PZ-JpR"; */
+"c5d-PZ-JpR.configuration.title" = "Cancel";
+
+/* Class = "UILabel"; text = "Color"; ObjectID = "clr-lb-Evt"; */
+"clr-lb-Evt.text" = "Color";
+
+/* Class = "UITextView"; text = "Event title"; ObjectID = "ffs-iz-j0C"; */
+"ffs-iz-j0C.text" = "Event title";
+
+/* Class = "UITextView"; text = "30 minutes before as email"; ObjectID = "hu5-bx-UPN"; */
+"hu5-bx-UPN.text" = "30 minutes before as email";
+
+/* Class = "UILabel"; text = "Sun"; ObjectID = "qhy-7m-nFA"; */
+"qhy-7m-nFA.text" = "Sun";
+
+/* Class = "UILabel"; text = "Fri"; ObjectID = "rvf-4J-0Iu"; */
+"rvf-4J-0Iu.text" = "Fri";
+
+/* Class = "UILabel"; text = "Sun"; ObjectID = "tr2-N0-H9C"; */
+"tr2-N0-H9C.text" = "Sun";
+
+/* Class = "UIButton"; configuration.title = "Add location"; ObjectID = "txB-Bp-dQG"; */
+"txB-Bp-dQG.configuration.title" = "Add location";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vYI-TF-qyP"; */
+"vYI-TF-qyP.text" = "Label";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "yJu-oO-kFf"; */
+"yJu-oO-kFf.text" = "1";
+
+/* Class = "UILabel"; text = "Sun"; ObjectID = "yax-zN-PMd"; */
+"yax-zN-PMd.text" = "Sun";

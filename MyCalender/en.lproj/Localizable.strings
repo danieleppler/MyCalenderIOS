@@ -1,0 +1,41 @@
+/* Default event title when user saves without typing one */
+"(No title)" = "(No title)";
+
+/* Button title before a location has been chosen */
+"Add location" = "Add location";
+
+/* All-day toggle label */
+"All day" = "All day";
+
+/* Color row label */
+"Color" = "Color";
+
+/* Generic alert title for save errors */
+"Error" = "Error";
+
+/* Body of the save-error alert */
+"Could not save event." = "Could not save event.";
+
+/* Generic OK button */
+"OK" = "OK";
+
+/* Toast shown when event end is before start */
+"End time must be after start time" = "End time must be after start time";
+
+/* Delete action in the event more-actions menu */
+"Delete" = "Delete";
+
+/* Color name displayed when the picked color doesn't match a preset */
+"Custom" = "Custom";
+
+/* Preset color names */
+"Yellow" = "Yellow";
+"Red" = "Red";
+"Orange" = "Orange";
+"Green" = "Green";
+"Blue" = "Blue";
+"Purple" = "Purple";
+"Pink" = "Pink";
+
+/* AddLocationViewController search bar placeholder */
+"Search location" = "Search location";

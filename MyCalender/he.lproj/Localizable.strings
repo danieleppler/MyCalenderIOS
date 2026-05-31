@@ -1,0 +1,41 @@
+/* Default event title when user saves without typing one */
+"(No title)" = "(ללא כותרת)";
+
+/* Button title before a location has been chosen */
+"Add location" = "הוסף מיקום";
+
+/* All-day toggle label */
+"All day" = "כל היום";
+
+/* Color row label */
+"Color" = "צבע";
+
+/* Generic alert title for save errors */
+"Error" = "שגיאה";
+
+/* Body of the save-error alert */
+"Could not save event." = "לא ניתן לשמור את האירוע.";
+
+/* Generic OK button */
+"OK" = "אישור";
+
+/* Toast shown when event end is before start */
+"End time must be after start time" = "זמן הסיום חייב להיות אחרי זמן ההתחלה";
+
+/* Delete action in the event more-actions menu */
+"Delete" = "מחק";
+
+/* Color name displayed when the picked color doesn't match a preset */
+"Custom" = "מותאם אישית";
+
+/* Preset color names */
+"Yellow" = "צהוב";
+"Red" = "אדום";
+"Orange" = "כתום";
+"Green" = "ירוק";
+"Blue" = "כחול";
+"Purple" = "סגול";
+"Pink" = "ורוד";
+
+/* AddLocationViewController search bar placeholder */
+"Search location" = "חיפוש מיקום";
